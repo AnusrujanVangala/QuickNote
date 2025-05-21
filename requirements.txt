@@ -1,0 +1,8 @@
+langchain
+faiss-cpu
+groq
+pypdf
+unstructured
+python-docx
+beautifulsoup4
+streamlit
